@@ -10,6 +10,15 @@ This course creates a bridge between theoretical knowledge and practical applica
 ## Objective
 The aim of this module is to remodel your mathematical knowledge by shifting the focus from abstract mathematics to mathematics with a specific purpose. This shift equips you for a deeper dive into machine learning, enhancing your ability to interpret results and optimize models.
 
+## Organisation
+This is a 3-day-course that you can do on your own at home before the CAS starts.
+If you have questions regarding the exercises or something theoretical, join the Q&A sessions on the dates listed below.
+Please provide your questions beforehand via Ilias.
+  #Q&A session:
+  13. August 2025, 16-18 o'clock or
+  15. August 2025, 16-18 o'clock.
+  Location: Online via Zoom, link is provided on Ilias
+  
 ## Course Material
 The course material is organized in Jupyter notebooks using Python as the primary programming language. This setup provides a hands-on approach to learning, allowing you to directly apply mathematical concepts within a practical framework.
 
