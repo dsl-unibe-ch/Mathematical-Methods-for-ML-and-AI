@@ -17,6 +17,7 @@ Please provide your questions beforehand via Ilias.
   * Q&A session:
   13. August 2025, 16-18 o'clock or
   15. August 2025, 16-18 o'clock.
+    
   Location: Online via Zoom, link is provided on Ilias
   
 ## Course Material
