@@ -15,6 +15,7 @@ This is a 3-day-course that you can do on your own at home before the CAS starts
 If you have questions regarding the exercises or something theoretical, join the Q&A sessions on the dates listed below.
 Please provide your questions beforehand via Ilias.
   * Q&A session:
+
  13. August 2025, 16-18 o'clock or
  15. August 2025, 16-18 o'clock.
     
