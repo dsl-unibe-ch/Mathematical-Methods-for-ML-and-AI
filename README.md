@@ -2,10 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KingaS03/Mathematics-for-Machine-Learning-and-Data-Science)
 
-# Applied Mathematics Course for Machine Learning
+# Self-study course for Mathematics Methods
 
 ## Overview
-This course creates a bridge between theoretical knowledge and practical application, opening up a new dimension of thinking. Through this module, participants will develop new mathematical intuitions by contextualizing theoretical questions within practical scenarios. Additionally, the course emphasizes how mathematical skills enhance the understanding and application of machine learning solutions.
+This course creates a bridge between theoretical knowledge and practical application, opening up a new dimension of thinking. POarticipants will develop new mathematical intuitions by contextualizing theoretical questions within practical scenarios. Additionally, the course emphasizes how mathematical skills enhance the understanding and application of machine learning solutions.
 
 ## Objective
 The aim of this module is to remodel your mathematical knowledge by shifting the focus from abstract mathematics to mathematics with a specific purpose. This shift equips you for a deeper dive into machine learning, enhancing your ability to interpret results and optimize models.
